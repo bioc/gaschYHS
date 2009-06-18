@@ -9,4 +9,4 @@ License: unknown, repackages data on
 	http://genome-www.stanford.edu/yeast_stress/data/
 	rawdata/complete_dataset.txt
 Depends: Biobase (>= 1.12.0)
-biocViews: ExperimentData
+biocViews: ExperimentData, Yeast

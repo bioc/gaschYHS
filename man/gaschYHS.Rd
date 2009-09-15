@@ -11,7 +11,7 @@ environmental stresses.
 \usage{data(gaschYHS)}
 \format{
 The format is an
-\code{\link[Biobase]{ExpressionSet-class}}.  There is
+\code{\link[Biobase:class.ExpressionSet]{ExpressionSet}}.  There is
 a feature data component.
 }
 %\details{

@@ -1,11 +1,11 @@
 Package: gaschYHS
 Title: ExpressionSet for response of yeast to heat shock 
 	and other environmental stresses
-Version: 1.5.0
+Version: 1.5.1
 Author: Audrey Gasch and colleagues
 Description: Data from PMID 11102521
 Maintainer: Vince Carey <stvjc@channing.harvard.edu>
 License: Artistic-2.0
 URL: http://genome-www.stanford.edu/yeast_stress/data/rawdata/complete_dataset.txt
 Depends: R (>= 2.14.0), Biobase (>= 2.5.5)
-biocViews: ExperimentData, Yeast
+biocViews: ExperimentData, Genome, Saccharomyces_cerevisiae_Data

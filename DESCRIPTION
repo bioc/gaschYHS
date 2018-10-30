@@ -1,7 +1,7 @@
 Package: gaschYHS
 Title: ExpressionSet for response of yeast to heat shock 
 	and other environmental stresses
-Version: 1.19.0
+Version: 1.20.0
 Author: Audrey Gasch and colleagues
 Description: Data from PMID 11102521
 Maintainer: Vince Carey <stvjc@channing.harvard.edu>
